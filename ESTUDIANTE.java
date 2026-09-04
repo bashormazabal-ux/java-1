@@ -32,6 +32,7 @@ public class ESTUDIANTE {
         this.nombre = nombre;
         this.carrera = carrera;
         this.edad = edad;
+    }
 
         public void mostrarInformacion() {
             System.out.println("Nombre: " + nombre);
